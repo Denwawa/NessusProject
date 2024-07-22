@@ -4,6 +4,11 @@ As a Cyber Security Specialist, my primary responsibility is to manage and monit
 The majority of our organization's devices were managed through Microsoft 365. Because of this, the most efficient remediation was achieved via Microsoft 365 Services. For non-Windows devices or those not linked to Microsoft Azure Active Directory, different but similar remediation steps were used.
 
 Although this documentation primarily details the technical steps taken with these tools, the project planning/implementation process also encompassed discussions and planning with organizations to recommend acceptable device use policies. Also note, other tools were also implemented (e.g., SentinelOne, ThreatLocker, DNS Filtering, LastPass) to remediate these vulnerabilites and meet compliance standards.
+## High Level Overview of Tasks Performed
+
+- Deployed and automated Nessus for routine vulnerability scanning across the network infrastructures of more than 50 organizations.
+- Conducted vulnerability assessments with Nessus and developed comprehensive remediation plans for organizations based on findings.
+- Automated remediation process utilizing Microsoft Intune and Entra to secure Windows operating systems, ensuring applications were secure, and applying comprehensive configuration policies.
 
 ![](images/Tenable_Nessus_Banner.png)
 
