@@ -7,7 +7,7 @@ Although this documentation primarily details the technical steps taken with the
 
 ![](images/Tenable_Nessus_Banner.png)
 
-<h2>High Level Tenable Overview </h2>
+<h2>Vulnerability Assessment </h2>
 
 <b>Tenable Nessus is a vulnerability management tool designed to scan endpoints and ensure their security. The typical vulnerabilities found on these endpoints include</b>
 <br />
@@ -18,6 +18,10 @@ Although this documentation primarily details the technical steps taken with the
 - Misconfigured/Unncessary Services
 - Weak Encrpytion
 - Misconfigured Devices
+
+A scan identifies the severity of issues and suggests remediation steps. After remediation, another scan ensures the vulnerabilities are resolved. If similar issues persist, the process is repeated until all issues are addressed.
+
+Once the project is completed, automated scans are conducted at the organization's discretion (e.g., yearly, bi-yearly, monthly). Scan reports are also generated automatically according to the organization's specifications.
 
 # Deploying Nessus Agent
 - Obtaining powershell script via Tenable Portal
