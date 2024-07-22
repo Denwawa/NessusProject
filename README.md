@@ -1,3 +1,4 @@
+![](images/Tenable_Nessus_Banner.png)
 # Implementing Tenable Nessus and Remediation through Microsoft Intune
 <h2>High Level Overview:</h2>
 <b>Tenable Nessus is a vulnerability management tool designed to scan endpoints and ensure their security. The typical vulnerabilities found on these endpoints include</b>
