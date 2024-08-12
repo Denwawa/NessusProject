@@ -46,8 +46,6 @@ Once the project is completed, automated scans are conducted at the organization
 ## Weak Encrpytion
 ## Misconfigured Devices
 
-<h2>High Level Microsoft Intune Overview </h2>
-
 
 
 
